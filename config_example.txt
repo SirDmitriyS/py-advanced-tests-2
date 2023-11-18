@@ -1,0 +1,3 @@
+{
+    "ya token": "<yandex disk token value>"
+}
